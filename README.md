@@ -1,49 +1,11 @@
-# Hugo Start
+#### Cíl
+Porovnání stavu a možná i zlepšení finanční gramotnosti v ČR<br>
+#### Kontext
+V základu se jedná o jednoduchou myšlenku týkající se české finanční gramotnosti. Vzhledem na to, že funguji jako začínající finanční poradce, tak si celkem všímám i u svých známých, jak malá je často finanční gramotnost - a jak toho mnohé instituce v česku využívají. Mnoho lidí totiž nemá přehled o produktech na trhu, nebo nemají tušení, jak různé finanční instituce fungují. Pojištění jsou kapitolou samy o sobě, kdy se najde spousta lidí, kteří nadávají na pojišťovnu, ale ani neví, že něco nebylo proplaceno proto, že to v pojistce ani nemají a jen si to mysleli. <br>
+<br>
+Mým cílem však není dělat nebo prezentovat nějaké statistiky, ale zamyslet se nad tím, jak by se to dalo zlepšit. Při pohledu na statistiky můžeme vyvozovat různé závěry, co si lidé myslí, že ví, v realitě to však často může fungovat jinak. Z mého pohledu není finanční gramotnost něco, co může člověk označit za "Hele znám nějaké ty finanční produkty, některé i mám. Dokonce znám i nějaké pojmy, tak přece musím být finančně gramotný!" ale je to i způsob myšlení a chování. A to i z ekonomického pohledu. <br>
+Zdroje
+1. https://www.irozhlas.cz/ekonomika/financni-gramotnost-cechu-se-nezlepsuje-ale-pribylo-lidi-kteri-si-setri_1803141030_haf
+2. https://www.investujeme.cz/clanky/financni-gramotnost-jak-se-meri/
+3. https://www.frekvence1.cz/audio-video?hledej=Lou&clanek=zdrave-myslet-zdrave-zit-financni-gramotnost-aneb-jak-spravne-zachazet-s-penezi
 
-A simple hugo boilerplate showing some of Hugo's functionality.
-
-
-## Quick Start
-
-- Download [latest release](rel) and unzip into your working directory. 
-- Rename the folder as you want.
-- Navigate to this folder in your command line (PowerShell in Windows, Terminal in macOS or Linux).
-- Run `hugo server`. 
-- Hugo should return several messages (see code below). There is an address that allows opening the website in your browser: below it's `http://localhost:1313/hugo-start/`.
-
-```
-$ hugo server
-
-                   | EN  
-+------------------+----+
-  Pages            | 21  
-  Paginator pages  |  0  
-  Non-page files   |  0  
-  Static files     |  2  
-  Processed images |  0  
-  Aliases          |  0  
-  Sitemaps         |  1  
-  Cleaned          |  0  
-
-Total in 30 ms
-Watching for changes in /Users/<username>/Projects/start/{content,data,layouts,static}
-Serving pages from memory
-Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at http://localhost:1313/hugo-start/ (bind address 127.0.0.1)
-Press Ctrl+C to stop
-```
-
-## Best Practice
-
-When adding small changes, do not commit anything from `/docs folder`. Push changes in docs only after some milestone, preferably by a single user, so that merge conflicts do not make work with the repository difficult.
-
-Generally, built files are not to be commited exactly for this reason — but in this case, they're useful to generate a [Github Sites based website](http://jan-martinek.github.io/hugo-start/).
-
-
-## Troubleshooting
-
-- When running `hugo new`, this error is shown: **Unable to locate Config file. Perhaps you need to create a new site.** You're in a wrong folder.
-- When running any comman, this error is shown: **command not found: hugo**. Hugo is not installed correctly. Either reinstall Hugo or check whether you typed it correctly.
-
-
-[rel]: https://github.com/jan-martinek/hugo-start/releases
