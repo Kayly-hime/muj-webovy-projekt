@@ -5,8 +5,8 @@ menu:
     weight: 30
 ---
 
-**„Ne smilování, ale spravedlnost dlužíme zvířatům.“**
-Arthur Schopenhauer 
-německý filozof 1788 - 1860
-
+**"„Ne smilování, ale spravedlnost dlužíme zvířatům.“"** <br>
+Arthur Schopenhauer <br>
+německý filozof 1788 - 1860 <br>
+<br>
 
