@@ -1,5 +1,5 @@
 ---
-title: Článek one 
+title: Psi k adopci
 date: 2019-04-09
 tags: 
     - article
