@@ -11,3 +11,5 @@ tags:
     <input type=text size=16 name="jidlo">
     <input type=submit value=odeslat>
 </form>
+
+<iframe src="demo_iframe.htm" style="border:2px solid red;"></iframe>
