@@ -1,8 +1,8 @@
 ---
 title: Článek one 
-date: 201-0-09
+date: 2019-04-09
 tags: 
-    - beatles
+    - article
     - data
 ---
 
