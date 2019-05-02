@@ -1,17 +1,25 @@
 .wrapper {
-  margin: 30px auto;
+  margin: 50px auto;
   max-width: 800px;
-  padding: 20px;
+  padding: 30px;
+  background-image: url("http://www.chovpsa.cz/www.chovpsa.cz/003.chovpsa.cz/lovecky_pes/retriever/retriever%20pozadi%20copy.jpg");
 }
 
 header {
   padding: 30px 0 0;
   border-bottom: solid;
+  background-color: #160000;
+  text-color: #fd0100;
+  text-decoration: underline;
+  text-transform: capitalize;
+  text-shadow: 3px 2px #fd0100; 
 }
 
 footer {
   border-top: solid;
   clear: both;
+  background-color: #160000;
+  text-color: #fd0100; 
 }
 
 .page {
@@ -21,13 +29,19 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  background-image: url("https://static3.depositphotos.com/1001336/128/i/950/depositphotos_1284591-stock-photo-background-with-dogs.jpg");
+  text-color: #fd0100;
 }
 
 aside {
   float: left;
   width: 25%;
   margin-top: 1em;
+  background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/55/20/05/00/700_FO55200500_cad04d98134247bd0d4720bac736953e.jpg,467,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,247,650,jpg)/fototapety-baset-pes-lezici-na-bilem-pozadi.jpg.jpg");
+  text-color: #fd0100;
+  text-transform: capitalize;
 }
+
 
 nav ul {
   list-style-type: none;
