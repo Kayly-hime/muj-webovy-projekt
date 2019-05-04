@@ -2,13 +2,13 @@
   margin: 50px auto;
   max-width: 800px;
   padding: 30px;
-  background-image: url("https://st4.depositphotos.com/11498520/21431/v/1600/depositphotos_214316414-stock-illustration-dog-paw-seamless-vector-footprint.jpg");
+  background-image: url("https://st2.depositphotos.com/1106005/8685/i/950/depositphotos_86854464-stock-photo-green-and-white-dog-paw.jpg");
 }
 
 header {
-  padding: 30px 0 0;
+  padding: 50px 0 0;
   border-bottom: solid;
-  background-color: #160000;
+  background-image: url("https://cdn.pixabay.com/photo/2018/05/22/22/40/dog-3422728_960_720.jpg");
   text-color: #fd0100;
   text-decoration: underline;
   text-transform: capitalize;
@@ -20,7 +20,7 @@ footer {
   clear: both;
   background-color: #160000;
   text-color: #fd0100;
-  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg")
+  background-image: url("https://st2.depositphotos.com/1106005/8685/i/950/depositphotos_86854464-stock-photo-green-and-white-dog-paw.jpg")
 }
 
 .page {
@@ -30,7 +30,7 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
-  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
+  background-image: url("https://st2.depositphotos.com/1106005/8685/i/950/depositphotos_86854464-stock-photo-green-and-white-dog-paw.jpg");
   text-color: #fd0100;
 }
 
