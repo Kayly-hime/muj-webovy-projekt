@@ -2,7 +2,8 @@
   margin: 50px auto;
   max-width: 800px;
   padding: 30px;
-  background-image: url("https://st2.depositphotos.com/1106005/8685/i/950/depositphotos_86854464-stock-photo-green-and-white-dog-paw.jpg");
+  color: #9dc0e7;
+  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
 }
 
 header {
@@ -20,9 +21,8 @@ header {
 footer {
   border-top: solid;
   clear: both;
-  background-color: #160000;
-  text-color: #fd0100;
-  background-image: url("https://st2.depositphotos.com/1106005/8685/i/950/depositphotos_86854464-stock-photo-green-and-white-dog-paw.jpg")
+  color:#9dc0e7;
+  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg")
 }
 
 .page {
@@ -32,16 +32,16 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
-  background-image: url("https://st2.depositphotos.com/1106005/8685/i/950/depositphotos_86854464-stock-photo-green-and-white-dog-paw.jpg");
-  text-color: #fd0100;
+  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
+  color: #9dc0e7;
 }
 
 aside {
   float: left;
   width: 25%;
   margin-top: 1em;
-  background-image: url("https://st2.depositphotos.com/1106005/8685/i/950/depositphotos_86854464-stock-photo-green-and-white-dog-paw.jpg");
-  text-color: #fd0100;
+  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
+  color: #9dc0e7;
   text-transform: capitalize;
 }
 
