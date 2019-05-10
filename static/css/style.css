@@ -5,7 +5,7 @@
   color: #035200;
   background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
   font-style: oblique;
-  font-family: cursive;
+  font-family: "verdana";
 }
 
 header {
@@ -13,14 +13,12 @@ header {
   border-bottom: solid;
   border-right: solid;
   border-left: solid;
-  height-bottom: 60px;
-  background-image: url("https://cdn3.seekwallpapers.com/uploads/picture/956/386/386956/thumbs_picture-386956.jpg");
+  background-image: url("http://www.nejlepsi-pritel-cloveka.estranky.cz/img/articles/8.jpg");
   color: #fff010;
-  text-align: right;
+  font-family: "verdana";
+  color: #a8fa00;
+  text-align: justify;
   text-decoration: underline;
-  text-transform: capitalize;
-  font-style: oblique;
-  font-family: cursive;
 }
 
 footer {
@@ -50,7 +48,7 @@ aside {
   background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
   color: #035200;
   font-style: oblique;
-  font-family: cursive;
+  font-family: "verdana";
 }
 
 
