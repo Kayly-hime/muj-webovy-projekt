@@ -2,8 +2,10 @@
   margin: 50px auto;
   max-width: 800px;
   padding: 30px;
-  color: #3434ff;
+  color: #035200;
   background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
+  font-style: oblique;
+  font-family: cursive;
 }
 
 header {
@@ -11,18 +13,21 @@ header {
   border-bottom: solid;
   border-right: solid;
   border-left: solid;
+  height-bottom: 60px;
   background-image: url("https://cdn3.seekwallpapers.com/uploads/picture/956/386/386956/thumbs_picture-386956.jpg");
-  color: #3434ff;
+  color: #fff010;
   text-align: right;
   text-decoration: underline;
   text-transform: capitalize;
+  font-style: oblique;
+  font-family: cursive;
 }
 
 footer {
   border-top: solid;
   clear: both;
-  color: #3434ff;
-  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg")
+  color: #035200;
+  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
 }
 
 .page {
@@ -33,7 +38,9 @@ footer {
   padding-bottom: 2em;
   min-height: 400px;
   background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
-  color: #3434ff;
+  color: #035200;
+  font-style: oblique;
+  font-family: cursive;
 }
 
 aside {
@@ -41,8 +48,9 @@ aside {
   width: 25%;
   margin-top: 1em;
   background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
-  color: #3434ff;
-  
+  color: #035200;
+  font-style: oblique;
+  font-family: cursive;
 }
 
 
