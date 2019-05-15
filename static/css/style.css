@@ -15,9 +15,12 @@
 }
 
 header {
-  background-image: url("http://www.lowerheykennels.com/resources/dog_banner.jpg" width="200" height="800");
+  background-image: url("http://www.lowerheykennels.com/resources/dog_banner.jpg");
+  width: 100%;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-size: contain;   
+  
   color: #fff010;
   font-family: "verdana";
   text-align: justify;
