@@ -5,7 +5,7 @@ tags:
     - article
     - data
     - psi
-Author: Denisa 
+Author: Denisa, Týna  
 ---
 
 ## Posláním naší stránky jsou zvířata a vše co se jich týká ##
