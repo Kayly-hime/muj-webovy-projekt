@@ -15,17 +15,12 @@
 }
 
 header {
-  padding: 75px 30px;
-  margin: 50px 30px;
-  border-bottom: solid;
-  border-right: solid;
-  border-left: solid;
-  height-bottom: 50px;
   background-image: url("http://www.lowerheykennels.com/resources/dog_banner.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;   
   color: #fff010;
   font-family: "verdana";
   text-align: justify;
-  text-decoration: underline;
 }
 
 footer {
