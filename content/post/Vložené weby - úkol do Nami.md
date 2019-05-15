@@ -4,7 +4,8 @@ date: 2019-04-08
 Author: Denisa
 tags: 
     - article
-    - homework   
+    - data
+    - psi
 ---
 Odkaz na webovou stránku <a href="https://www.pesweb.cz/cz/psi-k-adopci"> pesweb.cz </a> kde se dají adoptovat různí pejsci. V rámci úkolu se měl vložit interaktivní prvek. 
 
