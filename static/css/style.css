@@ -3,7 +3,6 @@
   max-width: 800px;
   padding: 30px;
   color: #fff010;
-  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
   font-style: oblique;
   font-family: "verdana";
   border-style: solid;
@@ -18,7 +17,7 @@ header {
   border-right: solid;
   border-left: solid;
   height-bottom: 50px;
-  background-image: url("http://www.nejlepsi-pritel-cloveka.estranky.cz/img/articles/8.jpg");
+  background-image: url("");
   color: #fff010;
   font-family: "verdana";
   text-align: justify;
@@ -29,7 +28,6 @@ footer {
   border-top: solid;
   clear: both;
   color: #680172;
-  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
 }
 
 .page {
@@ -49,7 +47,6 @@ aside {
   float: left;
   width: 25%;
   margin-top: 1em;
-  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
   color: #680172;
   font-style: oblique;
   font-family: "verdana";
