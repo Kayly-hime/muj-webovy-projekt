@@ -5,15 +5,15 @@ publishDir: public
 
 menu:
   main:
-    - name: Homepage
+    - name: Domů
       url: /
       weight: 10
-    - name: Archive
-      identifier: post
+    - name: Archiv
+      identifier: Archiv
       url: /post/
-      weight: 20
+      weight: 15
 
 params:
-  description: Description of my new site.
-  authors: Kristýna Světnicová Denisa Hulánková Eva Neureiterová
+  description: 
+  authors: Nami
 
