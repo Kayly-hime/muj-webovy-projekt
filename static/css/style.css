@@ -15,7 +15,7 @@
 }
 
 header {
-  background-image: url("http://www.lowerheykennels.com/resources/dog_banner.jpg");
+  background-image: url("http://www.lowerheykennels.com/resources/dog_banner.jpg" width="200" height="800");
   background-repeat: no-repeat;
   background-size: contain;   
   color: #fff010;
