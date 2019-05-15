@@ -1,4 +1,13 @@
-# Psi v nouzi
+---
+Title: Psi v nouzi
+Date: 15. 5 2019  
+Tags: 
+     - psi
+     - útulek
+     - nouze
+---
+
+
 ## Pejsci z Bull azylu Čáslav hledají nový domov
 ### Milujete pibulteriéry, stafordy a další psy typu „bull“? Rádi byste udělali dobrý skutek? Pak poskytněte nový domov některému z těchto pejsků.
 #### Bull azyl Čáslav zajišťuje dočasnou péči pro psy typu bull. Psí svěřenci jsou zde připravováni pro přijetí k novým páníčkům. Azyl tvoří skupina dobrovolníků, která zachraňuje psy ze špatných podmínek nebo z útulků, kde nevědí, jak s těmito psy pracovat. Zabývají se také převýchovou (strachová agrese,agrese na děti atd.).
