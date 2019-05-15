@@ -8,6 +8,7 @@
   border-style: solid;
   border-width: 5px;
   border-color: #fff010;
+  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
 }
 
 header {
@@ -37,7 +38,6 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
-  background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
   color: #680172;
   font-style: oblique;
   font-family: "verdana";
