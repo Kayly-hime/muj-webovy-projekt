@@ -28,7 +28,8 @@ header {
 footer {
   border-top: solid;
   clear: both;
-  color: #330000;
+  color: #000;
+  font-family: "Comic Sans MS";
 }
 
 .page {
