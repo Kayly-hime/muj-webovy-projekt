@@ -14,6 +14,17 @@
   
 }
 
+h1 {
+  color:  #a94c42;
+  font-family: 'Cinzel', serif;
+}
+h1 > a { /* Hlavní nadpis */
+  font-family: 'Cinzel Decorative', cursive;
+  color: #a94c42;
+  text-decoration: none;
+  font-size: 1OO%;
+}
+
 header {
   background-image: url("http://www.lowerheykennels.com/resources/dog_banner.jpg");
   width: 100%;
