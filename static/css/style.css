@@ -73,6 +73,9 @@ nav ul {
 
 nav li {
   float: left;  
+  }
+
+  nav li a, .dropbtn {
   display: inline-block;
   color: white;
   text-align: center;
@@ -80,6 +83,3 @@ nav li {
   text-decoration: none;
   }
 
-
-nav .active {
-}
