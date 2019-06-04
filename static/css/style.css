@@ -9,7 +9,7 @@
   border-width: 5px;
   border-color: #663300;
   background-image: url("https://i.pinimg.com/originals/49/51/c2/4951c2c5f3c88772d318d36e78154de6.jpg");
-  background-size: contain;  
+  background-size: auto;  
   background-repeat: repeat-y;
   
 }
