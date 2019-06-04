@@ -28,7 +28,6 @@ h1 > a { /* Hlavní nadpis */
 header {
   background-image: url("http://www.lowerheykennels.com/resources/dog_banner.jpg");
   max-width: 80%;
-  background-size: 100%;
   background-repeat: no-repeat;  
   color: #330000;
   font-family: "verdana";
@@ -40,6 +39,7 @@ footer {
   clear: both;
   color: #000;
   font-family: "Comic Sans MS";
+  text-align: center;
 }
 
 .page {
