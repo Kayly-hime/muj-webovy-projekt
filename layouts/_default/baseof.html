@@ -19,7 +19,7 @@
 <body>
 
   
-  <nav class="header-menu">{{ partial "menu.html" . }}</nav> 
+  <nav class="header-menu">{{ partial "menu.html" . }}
   <style>
   ul {
   list-style-type: none;
@@ -71,10 +71,11 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
   }</style>
+    </nav> 
   
   <header>
       <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
-      <p class="description">{{ .Site.Params.description }}</p>
+    <p class="description">{{ .Site.Params.description }}</p>
  
   </header> 
   
