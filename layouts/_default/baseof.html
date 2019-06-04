@@ -17,6 +17,11 @@
 </script>
 </head>
 <body>
+      <header>
+      <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+      <p class="description">{{ .Site.Params.description }}</p>
+    </header>
+  
   <div class="wrapper">
     <header>
       <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
