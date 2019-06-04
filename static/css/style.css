@@ -26,10 +26,7 @@ h1 > a { /* Hlavní nadpis */
 }
 
 header {
-  background-image: url("http://www.lowerheykennels.com/resources/dog_banner.jpg");
-  max-width: 80%;
-  weight: 100%;
-  
+  background-image: url("http://www.lowerheykennels.com/resources/dog_banner.jpg");  
   background-repeat: no-repeat;  
   color: #330000;
   font-family: "verdana";
@@ -75,15 +72,14 @@ nav ul {
 }
 
 nav li {
-  float: left;
-  }
-
-
-nav .active {
+  float: left;  
   display: inline-block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  }
 
+
+nav .active {
 }
