@@ -20,14 +20,13 @@
       <header>
       <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
       <p class="description">{{ .Site.Params.description }}</p>
-    </header> {{ partial "menu.html" . }}
+  <nav class="header-menu">{{ partial "menu.html" . }}</nav>  
+  </header> 
   
   <div class="wrapper">
     <div class="page">
       {{ block "main" . }}{{ end }}
     </div>
-
-    <nav class="header-menu">{{ partial "menu.html" . }}</nav>
 
     <footer>
       <p>
